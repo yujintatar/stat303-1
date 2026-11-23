@@ -1,0 +1,83 @@
+Match Number,Round Number,Date,Location,Home Team,Away Team,Result
+9,1,23/10/2025 00:00,United Center,Chicago Bulls,Detroit Pistons,115 - 111
+29,1,25/10/2025 23:00,Kia Center,Orlando Magic,Chicago Bulls,98 - 110
+46,1,28/10/2025 00:00,United Center,Chicago Bulls,Atlanta Hawks,128 - 123
+63,2,30/10/2025 00:00,United Center,Chicago Bulls,Sacramento Kings,126 - 113
+76,2,01/11/2025 00:00,United Center,Chicago Bulls,New York Knicks,135 - 125
+92,2,03/11/2025 00:00,Madison Square Garden,New York Knicks,Chicago Bulls,128 - 116
+106,3,05/11/2025 01:00,United Center,Chicago Bulls,Philadelphia 76ers,113 - 111
+129,3,08/11/2025 01:00,Fiserv Forum,Milwaukee Bucks,Chicago Bulls,126 - 110
+136,3,09/11/2025 01:00,Rocket Arena,Cleveland Cavaliers,Chicago Bulls,128 - 122
+152,3,11/11/2025 01:00,United Center,Chicago Bulls,San Antonio Spurs,117 - 121
+164,4,13/11/2025 00:00,Little Caesars Arena,Detroit Pistons,Chicago Bulls,124 - 113
+199,4,17/11/2025 01:00,Delta Center,Utah Jazz,Chicago Bulls,150 - 147
+207,4,18/11/2025 02:00,Ball Arena,Denver Nuggets,Chicago Bulls,127 - 130
+222,5,20/11/2025 03:00,Moda Center,Portland Trail Blazers,Chicago Bulls,121 - 122
+230,5,22/11/2025 01:00,United Center,Chicago Bulls,Miami Heat,107 - 143
+239,5,23/11/2025 01:00,United Center,Chicago Bulls,Washington Wizards,121 - 120
+257,5,25/11/2025 01:00,Smoothie King Center,New Orleans Pelicans,Chicago Bulls,143 - 130
+275,6,29/11/2025 00:30,Spectrum Center,Charlotte Hornets,Chicago Bulls,123 - 116
+286,6,30/11/2025 00:30,Gainbridge Fieldhouse,Indiana Pacers,Chicago Bulls,103 - 101
+305,6,02/12/2025 00:30,Kia Center,Orlando Magic,Chicago Bulls,125 - 120
+320,7,04/12/2025 01:00,United Center,Chicago Bulls,Brooklyn Nets,103 - 113
+336,7,06/12/2025 01:00,United Center,Chicago Bulls,Indiana Pacers,105 - 120
+352,7,08/12/2025 00:00,United Center,Chicago Bulls,Golden State Warriors,91 - 123
+1209,7,13/12/2025 00:00,Spectrum Center,Charlotte Hornets,Chicago Bulls,126 - 129
+1222,8,15/12/2025 00:00,United Center,Chicago Bulls,New Orleans Pelicans,104 - 114
+358,8,18/12/2025 01:00,United Center,Chicago Bulls,Cleveland Cavaliers,127 - 111
+375,8,20/12/2025 00:30,Rocket Arena,Cleveland Cavaliers,Chicago Bulls,125 - 136
+387,8,21/12/2025 20:30,State Farm Arena,Atlanta Hawks,Chicago Bulls,150 - 152
+402,8,24/12/2025 00:30,State Farm Arena,Atlanta Hawks,Chicago Bulls,123 - 126
+423,9,27/12/2025 00:30,United Center,Chicago Bulls,Philadelphia 76ers,109 - 102
+433,9,28/12/2025 01:00,United Center,Chicago Bulls,Milwaukee Bucks,103 - 112
+448,9,30/12/2025 01:00,United Center,Chicago Bulls,Minnesota Timberwolves,101 - 136
+462,9,01/01/2026 00:00,United Center,Chicago Bulls,New Orleans Pelicans,134 - 118
+476,10,03/01/2026 01:00,United Center,Chicago Bulls,Orlando Magic,121 - 114
+485,10,04/01/2026 01:00,United Center,Chicago Bulls,Charlotte Hornets,99 - 112
+499,10,06/01/2026 00:30,TD Garden,Boston Celtics,Chicago Bulls,115 - 101
+513,10,08/01/2026 00:00,Little Caesars Arena,Detroit Pistons,Chicago Bulls,108 - 93
+542,11,11/01/2026 01:00,United Center,Chicago Bulls,Dallas Mavericks,125 - 107
+561,11,14/01/2026 01:00,Toyota Center,Houston Rockets,Chicago Bulls,119 - 113
+569,11,15/01/2026 01:00,United Center,Chicago Bulls,Utah Jazz,128 - 126
+583,12,17/01/2026 00:30,Barclays Center,Brooklyn Nets,Chicago Bulls,112 - 109
+599,12,19/01/2026 00:00,United Center,Chicago Bulls,Brooklyn Nets,124 - 102
+614,12,21/01/2026 01:00,United Center,Chicago Bulls,LA Clippers,138 - 110
+631,13,23/01/2026 01:00,Target Center,Minnesota Timberwolves,Chicago Bulls,115 - 120
+647,13,25/01/2026 01:00,United Center,Chicago Bulls,Boston Celtics,114 - 111
+661,13,27/01/2026 01:00,United Center,Chicago Bulls,Los Angeles Lakers,118 - 129
+672,13,29/01/2026 00:00,Gainbridge Fieldhouse,Indiana Pacers,Chicago Bulls,113 - 110
+525,14,30/01/2026 01:00,United Center,Chicago Bulls,Miami Heat,113 - 116
+692,14,01/02/2026 01:00,Kaseya Center,Miami Heat,Chicago Bulls,118 - 125
+705,14,01/02/2026 23:00,Kaseya Center,Miami Heat,Chicago Bulls,134 - 91
+722,14,04/02/2026 01:00,Fiserv Forum,Milwaukee Bucks,Chicago Bulls,131 - 115
+736,15,06/02/2026 00:30,Scotiabank Arena,Toronto Raptors,Chicago Bulls,123 - 107
+752,15,08/02/2026 01:00,United Center,Chicago Bulls,Denver Nuggets,120 - 136
+762,15,10/02/2026 00:30,Barclays Center,Brooklyn Nets,Chicago Bulls,123 - 115
+778,15,12/02/2026 00:30,TD Garden,Boston Celtics,Chicago Bulls,124 - 105
+797,16,20/02/2026 01:00,United Center,Chicago Bulls,Toronto Raptors,101 - 110
+814,16,22/02/2026 01:00,United Center,Chicago Bulls,Detroit Pistons,110 - 126
+825,16,23/02/2026 01:00,United Center,Chicago Bulls,New York Knicks,99 - 105
+836,16,25/02/2026 01:00,United Center,Chicago Bulls,Charlotte Hornets,99 - 131
+853,17,27/02/2026 01:00,United Center,Chicago Bulls,Portland Trail Blazers,112 - 121
+870,17,01/03/2026 20:30,United Center,Chicago Bulls,Milwaukee Bucks,120 - 97
+889,17,04/03/2026 01:00,United Center,Chicago Bulls,Oklahoma City Thunder,108 - 116
+905,18,06/03/2026 02:00,Mortgage Matchup Center,Phoenix Suns,Chicago Bulls,103 - 105
+930,18,09/03/2026 01:00,Golden 1 Center,Sacramento Kings,Chicago Bulls,126 - 110
+943,18,11/03/2026 02:00,Chase Center,Golden State Warriors,Chicago Bulls,124 - 130
+960,19,13/03/2026 02:30,Crypto.com Arena,Los Angeles Lakers,Chicago Bulls,142 - 130
+968,19,14/03/2026 02:30,Intuit Dome,LA Clippers,Chicago Bulls,119 - 108
+987,19,17/03/2026 00:00,United Center,Chicago Bulls,Memphis Grizzlies,132 - 107
+1002,20,19/03/2026 00:00,United Center,Chicago Bulls,Toronto Raptors,109 - 139
+1011,20,20/03/2026 00:00,United Center,Chicago Bulls,Cleveland Cavaliers,110 - 115
+1042,20,24/03/2026 00:00,United Center,Chicago Bulls,Houston Rockets,132 - 124
+1053,21,25/03/2026 23:00,Xfinity Mobile Arena,Philadelphia 76ers,Chicago Bulls,157 - 137
+1070,21,28/03/2026 00:00,Paycom Center,Oklahoma City Thunder,Chicago Bulls,131 - 113
+1079,21,29/03/2026 00:00,FedExForum,Memphis Grizzlies,Chicago Bulls,125 - 124
+1094,21,31/03/2026 00:00,Frost Bank Center,San Antonio Spurs,Chicago Bulls,129 - 114
+1109,22,02/04/2026 00:00,United Center,Chicago Bulls,Indiana Pacers,126 - 145
+1123,22,03/04/2026 23:30,Madison Square Garden,New York Knicks,Chicago Bulls,136 - 96
+1134,22,05/04/2026 19:30,United Center,Chicago Bulls,Phoenix Suns,110 - 120
+1148,22,07/04/2026 23:00,Capital One Arena,Washington Wizards,Chicago Bulls,98 - 129
+1166,23,09/04/2026 23:00,Capital One Arena,Washington Wizards,Chicago Bulls,108 - 119
+1177,23,11/04/2026 00:00,United Center,Chicago Bulls,Orlando Magic,103 - 127
+1193,23,13/04/2026 00:30,American Airlines Center,Dallas Mavericks,Chicago Bulls,149 - 128
